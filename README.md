@@ -9,7 +9,7 @@ ___
 ### Допомогти користувачу або групі користувачів завдяки системі вести облік зароблених грошей та правильно розпоряджатися коштами.
 
 ___
-![https://github.com/stupns/FinanceAPI/Documentation/drawio.png]()
+![](https://github.com/stupns/FinanceAPI/blob/main/Documentation/drawio.png)
 
 ## Основні розділи системи:
 
